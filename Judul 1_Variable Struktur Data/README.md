@@ -69,4 +69,4 @@ Program ini berfungsi sebagai sistem rekap atau manajemen simpel data penjualan 
 <img width="637" height="774" alt="image" src="https://github.com/user-attachments/assets/3273c443-1ca6-41c7-b7df-be474a1c4cbf" />
 <img width="738" height="452" alt="image" src="https://github.com/user-attachments/assets/e451ebef-bab0-4874-a06c-e4b203fc9634" />
 
-Link Video Penjelasan :
+Link Video Penjelasan : https://youtu.be/Hj6bnTh6cec
