@@ -4,9 +4,9 @@ Nama : Aldho Kurniansyah
 
 NPM : 2515061096
 
-Judul Program : Program Pengurutan Judul Buku Berdasarkan Abjad
+Judul Program : Program Pengurutan Judul Film Berdasarkan Abjad
 
-Program ini digunakan untuk mengurutkan judul film berdasarkan abjad A–Z menggunakan algoritma Bubble Sort. Pengguna diminta memasukkan jumlah judul film, kemudian memasukkan setiap judul satu per satu. Data yang dimasukkan akan diproses dengan metode Bubble Sort, yaitu membandingkan dua judul yang berdekatan dan menukarnya. Proses ini dilakukan berulang hingga semua judul tersusun sesuai dengan alfabet. Setelah proses selesai, program akan menampilkan daftar judul buku sebelum dan sesudah diurutkan.
+Program ini digunakan untuk mengurutkan judul film berdasarkan abjad A–Z menggunakan algoritma Bubble Sort. Pengguna diminta memasukkan jumlah judul film, kemudian memasukkan setiap judul satu per satu. Data yang dimasukkan akan diproses dengan metode Bubble Sort, yaitu membandingkan dua judul yang berdekatan dan menukarnya. Proses ini dilakukan berulang hingga semua judul tersusun sesuai dengan alfabet. Setelah proses selesai, program akan menampilkan daftar judul film sebelum dan sesudah diurutkan.
 
 <img width="1202" height="1736" alt="code" src="https://github.com/user-attachments/assets/56c4e176-57b4-4511-8813-988cdd3136f8" />
 
@@ -24,7 +24,7 @@ Program ini digunakan untuk mengurutkan judul film berdasarkan abjad A–Z mengg
 12.	
 13.	
 14.	Mendefinisikan fungsi main sebagai fungsi utama yang mengatur alur program dari awal sampai akhir.
-15.	Memulai blok try untuk mengantisipasi kesalahan saat user memasukkan jumlah buku.
+15.	Memulai blok try untuk mengantisipasi kesalahan saat user memasukkan jumlah film.
 16.	Meminta user memasukkan jumlah film yang akan diinput, lalu mengubahnya menjadi tipe data integer.
 17.	Menangkap error ValueError jika user memasukkan input selain angka.
 18.	Menampilkan pesan bahwa input tidak valid agar user tahu kesalahannya.
