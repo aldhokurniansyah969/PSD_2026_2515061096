@@ -49,6 +49,7 @@ Program ini digunakan untuk mengurutkan judul film berdasarkan abjad A–Z mengg
 37.	Baris standar Python yang memastikan bahwa kode di dalam main() hanya dijalankan jika file ini dijalankan langsung, bukan di-import.
 38.	Memanggil fungsi main() untuk menjalankan seluruh program dari awal.
 
-Output:
+Output :
 <img width="1150" height="290" alt="Screenshot 2026-05-04 214309" src="https://github.com/user-attachments/assets/e38cb1bc-bb61-494a-84be-d0312eafd0b8" />
 
+Link Video : https://youtu.be/oKHrUYU9n_4
