@@ -192,4 +192,4 @@ Output:
 <img width="518" height="671" alt="Screenshot 2026-05-19 224038" src="https://github.com/user-attachments/assets/78eb99b1-f822-4896-ae88-0cfba97266ca" />
 <img width="532" height="444" alt="Screenshot 2026-05-19 224118" src="https://github.com/user-attachments/assets/38fc40d2-e46b-4eab-9df0-a21b11737912" />
 
-Link Video:
+Link Video: https://youtu.be/EZafaPxv5BU
